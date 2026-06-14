@@ -9,4 +9,4 @@ Technologies:
 - PyCAW
 
 Run:
-python main.py
+python 1.py
